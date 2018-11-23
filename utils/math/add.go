@@ -6,6 +6,6 @@ func Add(a, b, c, d, f, e int) int {
 }
 
 //NewAdd add function
-func NewAdd(a int) int {
-	return a
+func NewAdd(a, b int) int {
+	return a + b
 }
