@@ -1,1 +1,1 @@
-module github.com/jemuri/test-go
+module github.com/jemuri/test-go/v4
