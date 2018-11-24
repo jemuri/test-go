@@ -9,3 +9,8 @@ func Add(a, b, c, d, f, e int) int {
 func NewAdd(a int) int {
 	return a
 }
+
+//Since Since
+func Since(a int) int {
+	return a
+}
